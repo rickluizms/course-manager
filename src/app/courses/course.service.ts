@@ -18,7 +18,7 @@ export class CourseService {
 var COURSES: Course[] = [
     {
         id: 1,
-        name: 'Angular: CLI',
+        name: 'Angular: CLI - Introduction ',
         releaseDate: 'November 2, 2019',
         description: 'Neste curso, os alunos irão obter um grande conhecimento nos principais recursos do CLI.',
         duration: 120,
